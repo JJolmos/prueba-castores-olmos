@@ -15,3 +15,4 @@ solo hay que llamar igual a la base de datos, tambien comparto el script de base
 para ejecutar el programa simplemente hay que complilar y ejecutar la clase main "DemoApplication.java" esto levantara el tomcat 
 por el puerto predeterminado 8080
 
+https://docs.google.com/document/d/17G4izXaAmMNSRh7HYB6az0tjMNZbN9iJLY-f2ghF3eo/edit?usp=sharing
